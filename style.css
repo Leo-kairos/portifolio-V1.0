@@ -46,14 +46,14 @@ header > .interface{
     justify-content: space-between;
 }
 
-header a{
+header .menu-desktop a{
     color: rgb(72, 72, 72);   
     text-decoration: none;
     display: inline-block;
     transition: .2s;
     font-size: 20px;
 }   
-header.menu-desktop a:hover{
+header .menu-desktop a:hover{
     color: #00BFFF;
     scale: 20px;
     transform: scale(1.07);
